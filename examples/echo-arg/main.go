@@ -6,7 +6,7 @@ import (
 	"strconv"
 
         "github.com/lxiaopei/bincover/examples/echo-arg/add"
-	"github.com/confluentinc/bincover"
+	"github.com/lxiaopei/bincover"
 )
 
 var (

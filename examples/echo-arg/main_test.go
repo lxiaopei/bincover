@@ -10,7 +10,7 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/confluentinc/bincover"
+	"github.com/lxiaopei/bincover"
 )
 
 func TestMainMethod(t *testing.T) {
