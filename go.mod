@@ -1,4 +1,4 @@
-module github.com/confluentinc/bincover
+module github.com/lxiaopei/bincover
 
 go 1.12
 
