@@ -5,7 +5,7 @@ import (
 	"os"
 	"strconv"
 
-        "github.com/lxiaopei/bincover/examples/echo-arg/add"
+        add "github.com/lxiaopei/bincover/examples/echo-arg/add"
 	"github.com/lxiaopei/bincover"
 )
 
@@ -37,5 +37,5 @@ func main() {
 			os.Exit(exitCode)
 		}
 	}
-	add.add(os.Args)
+	add.Add(os.Args)
 }

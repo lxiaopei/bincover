@@ -21,7 +21,7 @@ import (
 )
 
 func TestAdd(t *testing.T) {
-	result := add([]string{"test"})
+	result := Add([]string{"test"})
 	assert.Equal(t, "hello test", result)
 
 }
