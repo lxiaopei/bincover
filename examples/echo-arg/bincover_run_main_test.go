@@ -5,7 +5,7 @@ package main
 import (
 	"testing"
 
-	"github.com/confluentinc/bincover"
+	"github.com/lxiaopei/bincover"
 )
 
 func TestBincoverRunMain(t *testing.T) {
